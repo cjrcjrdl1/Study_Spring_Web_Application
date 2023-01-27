@@ -1,2 +1,2 @@
-# MinMall_Web_Project
-MinMall_Web_Project
+# Study_Spring_Web_Application
+Study_Spring_Web_Application
