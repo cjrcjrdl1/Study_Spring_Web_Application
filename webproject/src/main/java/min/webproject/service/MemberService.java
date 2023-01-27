@@ -3,6 +3,7 @@ package min.webproject.service;
 import lombok.RequiredArgsConstructor;
 import min.webproject.domain.Member;
 import min.webproject.repository.MemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
